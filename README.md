@@ -518,7 +518,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [X] pop() - remove from end, return value
         - [X] delete(index) - delete item at index, shifting all trailing elements left
         - [ ] remove(item) - looks for value and removes index holding it (even if in multiple places)
-        - [ ] find(item) - looks for value and returns first index with that value, -1 if not found
+        - [X] find(item) - looks for value and returns first index with that value, -1 if not found
         - [X] resize(new_capacity) // private function
             - when you reach capacity, resize to double the size
             - when popping an item, if size is 1/4 of capacity, resize to half
