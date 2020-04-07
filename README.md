@@ -515,7 +515,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [X] push(item)
         - [ ] insert(index, item) - inserts item at index, shifts that index's value and trailing elements to the right
         - [ ] prepend(item) - can use insert above at index 0
-        - [ ] pop() - remove from end, return value
+        - [X] pop() - remove from end, return value
         - [ ] delete(index) - delete item at index, shifting all trailing elements left
         - [ ] remove(item) - looks for value and removes index holding it (even if in multiple places)
         - [ ] find(item) - looks for value and returns first index with that value, -1 if not found
