@@ -503,7 +503,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [Jagged Arrays (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
         - [Jagged Arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/02_06-jaggedArrays.mp4)
         - [Resizing arrays (video)](https://archive.org/details/0102WhatYouShouldKnow/03_01-resizableArrays.mp4)
-    - [ ] Implement a vector (mutable array with automatic resizing):
+    - [X] Implement a vector (mutable array with automatic resizing):
         - [X] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [X] new raw data array with allocated memory
             - can allocate int array under the hood, just not use its features
