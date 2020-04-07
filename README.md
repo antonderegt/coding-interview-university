@@ -517,7 +517,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [X] prepend(item) - can use insert above at index 0
         - [X] pop() - remove from end, return value
         - [X] delete(index) - delete item at index, shifting all trailing elements left
-        - [ ] remove(item) - looks for value and removes index holding it (even if in multiple places)
+        - [X] remove(item) - looks for value and removes index holding it (even if in multiple places)
         - [X] find(item) - looks for value and returns first index with that value, -1 if not found
         - [X] resize(new_capacity) // private function
             - when you reach capacity, resize to double the size
