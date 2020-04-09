@@ -550,7 +550,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [X] value_at(index) - returns the value of the nth item (starting at 0 for first)
         - [X] push_front(value) - adds an item to the front of the list
         - [X] pop_front() - remove front item and return its value
-        - [ ] push_back(value) - adds an item at the end
+        - [X] push_back(value) - adds an item at the end
         - [ ] pop_back() - removes end item and returns its value
         - [ ] front() - get value of front item
         - [ ] back() - get value of end item
