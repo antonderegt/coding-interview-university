@@ -557,7 +557,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [X] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
         - [X] erase(index) - removes node at given index
         - [X] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
-        - [ ] reverse() - reverses the list
+        - [X] reverse() - reverses the list
         - [ ] remove_value(value) - removes the first item in the list with this value
     - [X] Doubly-linked List
         - [Description (video)](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists)
