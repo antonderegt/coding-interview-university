@@ -548,7 +548,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [X] size() - returns number of data elements in list
         - [X] empty() - bool returns true if empty
         - [ ] value_at(index) - returns the value of the nth item (starting at 0 for first)
-        - [ ] push_front(value) - adds an item to the front of the list
+        - [X] push_front(value) - adds an item to the front of the list
         - [ ] pop_front() - remove front item and return its value
         - [ ] push_back(value) - adds an item at the end
         - [ ] pop_back() - removes end item and returns its value
