@@ -691,7 +691,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [X] [Check if a binary tree is binary search tree or not (video)](https://www.youtube.com/watch?v=yEwSGhSsT0U&index=35&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
         - [X] [Delete a node from Binary Search Tree (video)](https://www.youtube.com/watch?v=gcULXE7ViZw&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=36)
         - [X] [Inorder Successor in a binary search tree (video)](https://www.youtube.com/watch?v=5cPbNCrdotA&index=37&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
-    - [ ] Implement:
+    - [X] Implement:
         - [X] insert    // insert value into tree
         - [X] get_node_count // get count of values stored
         - [X] print_values // prints the values in the tree, from min to max
@@ -700,7 +700,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [X] get_height // returns the height in nodes (single node's height is 1)
         - [X] get_min   // returns the minimum value stored in the tree
         - [X] get_max   // returns the maximum value stored in the tree
-        - [ ] is_binary_search_tree
+        - [X] is_binary_search_tree
         - [X] delete_value
         - [X] get_successor // returns next-highest value in tree after given value, -1 if none
 
