@@ -736,7 +736,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 ## Sorting
 
 - [X] Notes:
-    - [ ] Implement sorts & know best case/worst case, average complexity of each:
+    - Implement sorts & know best case/worst case, average complexity of each:
         - no bubble sort - it's terrible - O(n^2), except when n <= 16
     - [X] stability in sorting algorithms ("Is Quicksort stable?")
         - [Sorting Algorithm Stability](https://en.wikipedia.org/wiki/Sorting_algorithm#Stability)
